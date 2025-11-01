@@ -1,4 +1,4 @@
-# Text Cleaner (Simple + Virtual Environment)
+# Text Cleaner Starter Kit
 
 A Python project for beginners to practice cleaning text files and using virtual environments (venv).
 
