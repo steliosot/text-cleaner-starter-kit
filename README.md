@@ -1,6 +1,6 @@
 # Text Cleaner (Simple + Virtual Environment)
 
-A super simple Python project for beginners to practice cleaning text files **and using virtual environments (venv)**.
+A Python project for beginners to practice cleaning text files and using virtual environments (venv).
 
 It reads text from `data/raw/input.txt`, applies basic cleaning rules from `cleaner/rules.yaml`, and saves the result to `data/clean/output.txt`.
 
@@ -26,7 +26,7 @@ text-cleaner-simple-venv/
 
 ## Setup Virtual Environment
 
-Before running the project, create and activate a **virtual environment** to keep your workspace clean.
+Before running the project, create and activate a virtual environment to keep your workspace clean.
 
 ### 1️⃣ Create a venv
 ```bash
@@ -101,5 +101,3 @@ this   is   a simple example
 ```
 
 ---
-
-Enjoy learning Python and virtual environments!
